@@ -10,6 +10,8 @@ public class AmazonTest {
 	
 @Test
     public  void amazonTest() throws InterruptedException {
+	
+	System.out.println("Amazon Project");
 
         WebDriver driver = new ChromeDriver();
 
